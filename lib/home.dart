@@ -26,8 +26,8 @@ class _HomePageState extends State<HomePage> {
               children: [
                 const Text('name :  '),
                 Container(
-                  height: 30,
-                  width: 30,
+                  height: 50,
+                  width: 50,
                   color: Colors.red,
                 )
               ],
